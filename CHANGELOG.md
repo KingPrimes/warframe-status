@@ -1,3 +1,80 @@
+## [2.4.4](https://github.com/wfcd/warframe-status/compare/v2.4.3...v2.4.4) (2025-06-26)
+
+
+### Bug Fixes
+
+* bump the warframe group with 2 updates ([#1936](https://github.com/wfcd/warframe-status/issues/1936)) ([8c09669](https://github.com/wfcd/warframe-status/commit/8c09669c8b4429d54712181d79e0d3eb1ec482b9))
+
+## [2.4.3](https://github.com/wfcd/warframe-status/compare/v2.4.2...v2.4.3) (2025-06-25)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.510 to 1.1270.525 in the warframe group ([#1931](https://github.com/wfcd/warframe-status/issues/1931)) ([7ee9f16](https://github.com/wfcd/warframe-status/commit/7ee9f16e7db3f27d07061c63315d6efff5bf26b6))
+
+## [2.4.2](https://github.com/wfcd/warframe-status/compare/v2.4.1...v2.4.2) (2025-06-21)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.420 to 1.1270.421 in the warframe group ([#1927](https://github.com/wfcd/warframe-status/issues/1927)) ([746a429](https://github.com/wfcd/warframe-status/commit/746a4299035d5e94c67fd638e624eb18ffe72d73))
+
+## [2.4.1](https://github.com/wfcd/warframe-status/compare/v2.4.0...v2.4.1) (2025-06-09)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.358 to 1.1270.366 ([#1919](https://github.com/wfcd/warframe-status/issues/1919)) ([0c62997](https://github.com/wfcd/warframe-status/commit/0c62997be080a0c29dc14b8c51353ba87217999b))
+
+# [2.4.0](https://github.com/wfcd/warframe-status/compare/v2.3.66...v2.4.0) (2025-06-06)
+
+
+### Features
+
+* add a `withItem` query ([#1920](https://github.com/wfcd/warframe-status/issues/1920)) ([f5ffa9d](https://github.com/wfcd/warframe-status/commit/f5ffa9d96bbd41823cca37424a49f2e57683b0aa))
+
+## [2.3.66](https://github.com/wfcd/warframe-status/compare/v2.3.65...v2.3.66) (2025-06-02)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.336 to 1.1270.358 ([#1918](https://github.com/wfcd/warframe-status/issues/1918)) ([7d465e5](https://github.com/wfcd/warframe-status/commit/7d465e5eea5e0d0ac611467079df485f388d7b1e))
+
+## [2.3.65](https://github.com/wfcd/warframe-status/compare/v2.3.64...v2.3.65) (2025-05-30)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.324 to 1.1270.332 ([#1916](https://github.com/wfcd/warframe-status/issues/1916)) ([11feb4c](https://github.com/wfcd/warframe-status/commit/11feb4cd021b40fa82821c753d627d5bd3901a19))
+
+## [2.3.64](https://github.com/wfcd/warframe-status/compare/v2.3.63...v2.3.64) (2025-05-29)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.316 to 1.1270.324 ([#1915](https://github.com/wfcd/warframe-status/issues/1915)) ([6880788](https://github.com/wfcd/warframe-status/commit/688078867e657993c9e406e339ba350ec1eea6dc))
+
+## [2.3.63](https://github.com/wfcd/warframe-status/compare/v2.3.62...v2.3.63) (2025-05-28)
+
+
+### Bug Fixes
+
+* upgrade express to v5 ([#1914](https://github.com/wfcd/warframe-status/issues/1914)) ([7fa0f92](https://github.com/wfcd/warframe-status/commit/7fa0f92d5d318afc14b285bdd9a0a42488ae3bde))
+
+## [2.3.62](https://github.com/wfcd/warframe-status/compare/v2.3.61...v2.3.62) (2025-05-28)
+
+
+### Bug Fixes
+
+* bump the warframe group with 2 updates ([#1911](https://github.com/wfcd/warframe-status/issues/1911)) ([61f1a31](https://github.com/wfcd/warframe-status/commit/61f1a31ad084db61b47017a85c7918e7c73c7b95))
+
+## [2.3.61](https://github.com/wfcd/warframe-status/compare/v2.3.60...v2.3.61) (2025-05-16)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.216 to 1.1270.224 ([#1909](https://github.com/wfcd/warframe-status/issues/1909)) ([2f35eba](https://github.com/wfcd/warframe-status/commit/2f35ebac244ce78c8733a1bc33b3253c351e5b81))
+
 ## [2.3.60](https://github.com/wfcd/warframe-status/compare/v2.3.59...v2.3.60) (2025-05-15)
 
 
