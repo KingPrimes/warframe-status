@@ -1,3 +1,25 @@
+## [2.4.7](https://github.com/wfcd/warframe-status/compare/v2.4.6...v2.4.7) (2025-07-28)
+
+
+### Bug Fixes
+
+* bump @wfcd/items from 1.1270.774 to 1.1270.795 ([#1951](https://github.com/wfcd/warframe-status/issues/1951)) ([a65aba6](https://github.com/wfcd/warframe-status/commit/a65aba69dcc8237e41124c71a210438d2b698a88))
+
+## [2.4.6](https://github.com/wfcd/warframe-status/compare/v2.4.5...v2.4.6) (2025-07-25)
+
+
+### Bug Fixes
+
+* allow riven hydration to fail, update emitter ([d1c89f1](https://github.com/wfcd/warframe-status/commit/d1c89f1d17c48e9ff44c71fe5f80978a94a07a04))
+
+## [2.4.5](https://github.com/wfcd/warframe-status/compare/v2.4.4...v2.4.5) (2025-07-25)
+
+
+### Bug Fixes
+
+* bump the warframe group ([#1940](https://github.com/wfcd/warframe-status/issues/1940)) ([8e000c0](https://github.com/wfcd/warframe-status/commit/8e000c0a56724d678f369ae2883a9825bd58bfa1))
+* upgrade to worldstate-parser@3 ([8ce4254](https://github.com/wfcd/warframe-status/commit/8ce4254c75886f3f2a5dbecff6c63210e621a2ee))
+
 ## [2.4.4](https://github.com/wfcd/warframe-status/compare/v2.4.3...v2.4.4) (2025-06-26)
 
 
